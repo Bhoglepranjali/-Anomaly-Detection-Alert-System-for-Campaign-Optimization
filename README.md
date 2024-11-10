@@ -1,0 +1,1 @@
+Designed and implemented an automated alert system using Fb-Prophet to streamline campaign monitoring by detecting anomalies in Earnings Per Impression (EPI). The system flags campaigns as anomalies when their EPI falls below target levels with sufficient traffic, promptly alerting monetizers to address performance issues.
